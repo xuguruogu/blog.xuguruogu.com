@@ -72,3 +72,5 @@ deploy:
   type: git
   repo: git@github.com:xuguruogu/xuguruogu.github.io.git
   branch: master
+
+disqus_shortname: xuguruogu
