@@ -1,7 +1,7 @@
 ---
 title: linux路由分析mtr命令
 date: 2017-03-19 21:24:05
-tags:
+tags: linux
 ---
 
 在Linux中有一个更好的网络连通性判断工具，它可以结合ping nslookup tracert 来判断网络的相关特性,这个命令就是mtr
