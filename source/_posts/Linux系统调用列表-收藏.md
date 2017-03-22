@@ -1,7 +1,7 @@
 ---
 title: Linux系统调用列表(收藏)
 date: 2017-03-23 00:14:08
-tags:
+tags: linux c
 ---
 
 
