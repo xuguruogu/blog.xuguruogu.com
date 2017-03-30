@@ -1,7 +1,7 @@
 ---
 title: '/proc/irq/{number}/smp_affinity'
 date: 2017-03-30 13:56:55
-tags:
+tags: linux
 ---
 
 在多 CPU 的环境中，还有一个中断平衡的问题，比如，网卡中断会教给哪个 CPU 处理，这个参数控制哪些 CPU 可以绑定 IRQ 中断。其中的 {number} 是对应设备的中断编号，可以用下面的命令找出：
