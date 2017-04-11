@@ -1,5 +1,5 @@
-layout: top
-title: cpu含义
+---
+title: top cpu含义
 date: 2017-03-30 13:52:25
 tags: linux
 ---

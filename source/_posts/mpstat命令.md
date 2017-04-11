@@ -1,5 +1,5 @@
-layout: linux性能测试
-title: mpstat命令
+---
+title: linux性能测试 mpstat命令
 date: 2017-03-30 15:35:35
 tags: [linux, cpu]
 ---

@@ -1,5 +1,5 @@
-layout: linux
-title: 查看系统硬件信息
+---
+title: linux 查看系统硬件信息
 date: 2017-03-30 16:12:49
 tags: linux
 ---
